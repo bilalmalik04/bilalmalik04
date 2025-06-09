@@ -23,7 +23,7 @@
     <!-- Right: About Me -->
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
-        <li>👋 Hi, I’m A ...</li>
+        <li>👋 Hi, I’m A Bilal.</li>
         <li>💻 Frontend Developer & ...</li>
         <li>🎨 Digital Concept Artist ...</li>
         <li>🤝 I’m looking for collaborations and making products ...</li>
