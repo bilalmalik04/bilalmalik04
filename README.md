@@ -6,7 +6,9 @@
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
 <p align="center">
-  <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" />
+<!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" /> -->
+  <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/imgPersonal1.png" width="100" alt="My Logo">
+
 </p>
 
 <table>
