@@ -5,6 +5,9 @@
 
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/hero.svg" />
+</p>
 
 <table>
   <tr>
@@ -31,7 +34,9 @@
 </table>
 <hr> <br>
 
-<h2>Find Me !</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/find-me.svg" />
+</p>
 <br>
 <p align="center">
   <a href="https://github.com/bilalmalik04" target="_blank">
