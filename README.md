@@ -10,29 +10,24 @@
   <tr>
     <!-- Left: Avatar -->
     <td align="left" style="padding: 10px 20px;">
-      <img src="https://github.com/bilalmalik04.png" width="80" />
-    </td>a
-
-    <!-- Center: Name and Username -->
-    <td align="center" style="font-family: monospace; color: #000;">
-      <h2 style="margin: 0;">Bilal</h2>
-      <p style="margin: 0;">@bilalmalik04</p>
+      <img src="https://github.com/bilalmalik04.png" width="80" alt="Avatar" />
     </td>
 
-    <!-- Right: Buttons -->
+    <!-- Center: Name & Username -->
+    <td align="center" style="font-family: monospace;">
+      <p style="margin: 0; font-size: 20px;"><b>Bilal</b></p>
+      <p style="margin: 0; color: gray;">@bilalmalik04</p>
+    </td>
+
+    <!-- Right: Stats -->
     <td align="right" style="padding: 10px 20px;">
-      <table>
-        <tr>
-          <td style="background:#3bd1f3; padding: 6px 12px; font-family:monospace; margin-right:6px;">👥 252</td>
-          <td style="background:#f38ac2; padding: 6px 12px; font-family:monospace; margin-right:6px;">📦 45</td>
-          <td style="background:#f9cc87; padding: 6px 12px; font-family:monospace; margin-right:6px;">⭐ 383</td>
-          <td style="background:#83f7a3; padding: 6px 12px; font-family:monospace;">🏔️ 928</td>
-        </tr>
-      </table>
+      <img src="https://img.shields.io/badge/👥%20Followers-252-blue?style=for-the-badge" alt="Followers" />
+      <img src="https://img.shields.io/badge/📦%20Repos-45-pink?style=for-the-badge" alt="Repos" />
+      <img src="https://img.shields.io/badge/⭐%20Stars-383-yellow?style=for-the-badge" alt="Stars" />
+      <img src="https://img.shields.io/badge/🏔️%20Commits-928-brightgreen?style=for-the-badge" alt="Commits" />
     </td>
   </tr>
 </table>
-
 
 
 
@@ -46,7 +41,7 @@
       <!-- Avatar -->
       <img src="https://avatars.githubusercontent.com/u/75396397?v=4" width="120" alt="Avatar" />
     </td>
-<hr> <br><br><br>
+<hr> <br><br>
     <!-- Right: About Me -->
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
@@ -59,14 +54,10 @@
     </td>
   </tr>
 </table>
-<hr> <br><br>
+<hr> <br>
 
-<a href="https://github.com/bilalmalik04">
-  <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/assets/found-me-btn.svg" alt="Found Me Button" />
-</a>
-
-<br><br>
-
+<h2>Find Me !</h2>
+<br>
 <p align="center">
   <a href="https://github.com/bilalmalik04" target="_blank">
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -87,11 +78,8 @@
     <img alt="UIverse" height="32" src="https://uiverse.io/favicon.ico" />
   </a>
 </p>
-
-<br><br>
-
-
-<img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/assets/tech-stack.svg" alt="Tech Stack" />
+<br>
+<h2>Skills I Have !</h2>
 
 <p align="center">
   <!-- Row 1: 4 icons -->
@@ -122,12 +110,7 @@
   <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/ffffff/external-ui-web-development-flatart-icons-flat-flatarticons.png" height="40" alt="UI Design" />
 </p>
 
-<br><br><br>
-
-
-
-<!-- SUPPORT BUTTONS -->
-<!-- SUPPORT & STATS BADGES -->
+<br><br>
 <p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%92%96-SUPPORT%20ME-purple?style=for-the-badge" alt="Support Badge"/>
@@ -153,8 +136,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalmalik04&show_icons=true&theme=tokyonight&rank_icon=percentile" height="180" alt="GitHub Stats" />
 </p>
-
-
 
 <!-- MOST USED LANGUAGES -->
 <p align="center">
