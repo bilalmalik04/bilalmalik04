@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/hero.svg" />
+  <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/hero.svg" />
 </p>
 
 <table>
@@ -59,7 +59,7 @@
   </a>
 </p>
 <br>
-<h2>Skills I Have !</h2>
+<img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/tech-stack.svg" />
 
 <p align="center">
   <!-- Row 1: 4 icons -->
