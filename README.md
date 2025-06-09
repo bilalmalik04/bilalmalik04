@@ -5,31 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
-<!-- GitHub-Compatible Hero Section -->
-<table align="center" width="100%" style="margin-top: 20px;">
-  <tr>
-    <!-- Left: Avatar -->
-    <td align="left" style="padding: 10px 20px;">
-      <img src="https://github.com/bilalmalik04.png" width="80" alt="Avatar" />
-    </td>
-
-    <!-- Center: Name & Username -->
-    <td align="center" style="font-family: monospace;">
-      <p style="margin: 0; font-size: 20px;"><b>Bilal</b></p>
-      <p style="margin: 0; color: gray;">@bilalmalik04</p>
-    </td>
-
-    <!-- Right: Stats -->
-    <td align="right" style="padding: 10px 20px;">
-      <img src="https://img.shields.io/badge/👥%20Followers-252-blue?style=for-the-badge" alt="Followers" />
-      <img src="https://img.shields.io/badge/📦%20Repos-45-pink?style=for-the-badge" alt="Repos" />
-      <img src="https://img.shields.io/badge/⭐%20Stars-383-yellow?style=for-the-badge" alt="Stars" />
-      <img src="https://img.shields.io/badge/🏔️%20Commits-928-brightgreen?style=for-the-badge" alt="Commits" />
-    </td>
-  </tr>
-</table>
-
-
 
 <table>
   <tr>
@@ -105,12 +80,9 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <br /><br />
-
-  <!-- Row 4: 1 centered icon -->
-  <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/ffffff/external-ui-web-development-flatart-icons-flat-flatarticons.png" height="40" alt="UI Design" />
 </p>
 
-<br><br>
+<br>
 <p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%92%96-SUPPORT%20ME-purple?style=for-the-badge" alt="Support Badge"/>
