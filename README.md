@@ -17,7 +17,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=150&height=40&lines=Hey+I+am+Bilal" alt="Typing SVG" />
       <br />
       <!-- Avatar -->
-      <img src="https://avatars.githubusercontent.com/u/75396397?v=4" width="120" alt="Avatar" />
+      <img  src="https://github.com/bilalmalik04.png" width="120"  alt="Bilal Malik" />
     </td>
 <hr> <br><br>
     <!-- Right: About Me -->
