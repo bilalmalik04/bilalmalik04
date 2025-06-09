@@ -25,9 +25,9 @@
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
         <li>👋 Hi, I’m A Bilal.</li>
-        <li>💻 Frontend Developer & ...</li>
-        <li>🎨 Digital Concept Artist ...</li>
-        <li>🤝 I’m looking for collaborations and making products ...</li>
+        <li>💻 Frontend Developer & UI\UX Designer</li>
+        <li>🎨 Digital Concept Artist </li>
+        <li>🤝 I’m looking for collaborations and making products</li>
         <li>Visit <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a> to know more about me ...</li>
       </ul>
     </td>
