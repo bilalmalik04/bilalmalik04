@@ -1,0 +1,21 @@
+<svg width="180" height="48" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blackShine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"></stop>
+      <stop offset="50%" stop-color="#1a1a1a"></stop>
+      <stop offset="100%" stop-color="#2c2c2c"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="180" height="48" fill="url(#blackShine)"></rect>
+
+  <!-- About Icon (Person) -->
+  <g transform="translate(24, 14)" fill="#ffffff">
+    <circle cx="0" cy="4" r="4"></circle>
+    <path d="M-6,18 a12,8 0 0,1 12,0 z"></path>
+  </g>
+
+  <!-- Text -->
+  <text x="56" y="30" fill="#ffffff" font-size="16" font-family="monospace">About Me</text>
+</svg>
