@@ -20,11 +20,11 @@
 <!--       <img  src="https://github.com/bilalmalik04.png" width="120"  alt="Bilal Malik" /> -->
       <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/imgPersonal1.png" width="100" alt="Bilal Malik">
     </td>
-<hr> <br><br>
+<hr> <br>
     <!-- Right: About Me -->
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
-        <li>👋 Hi, I’m A Bilal.</li>
+        <li>👋 Hi, I’m Bilal....</li>
         <li>💻 Frontend Developer & UI\UX Designer</li>
         <li>🎨 Digital Concept Artist </li>
         <li>🤝 I’m looking for collaborations and making products</li>
@@ -88,19 +88,6 @@
   <br /><br />
 </p>
 
-<br>
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%92%96-SUPPORT%20ME-purple?style=for-the-badge" alt="Support Badge"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-blue?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi Badge"/>
-  </a>
-</p>
-
 <p align="left">
   <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Badge"/>
 </p>
@@ -110,18 +97,14 @@
   <img src="https://komarev.com/ghpvc/?username=bilalmalik04&label=Profile%20views&color=8000ff&style=flat" alt="profile views" />
 </p>
 
+
 <!-- GITHUB STATS CARD -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bilalmalik04&show_icons=true&theme=tokyonight&rank_icon=percentile" height="180" alt="GitHub Stats" />
 </p>
 
 <!-- MOST USED LANGUAGES -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmalik04&layout=compact&theme=tokyonight" height="150" alt="Most Used Languages" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bilalmalik04&repo=your-top-repo&theme=tokyonight" />
 </p>
 
