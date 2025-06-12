@@ -8,27 +8,7 @@
 
 <!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" /> -->
 
-  <table width="170%" style="background-color:black; color: white; border-radius: 10px;">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://avatars.githubusercontent.com/u/112762246?v=4" width="120" style="border-radius: 50%;" />
-    </td>
-    <td align="center" width="34%">
-      <h3>🚀 Bilal Malik</h3>
-      <img src="https://img.shields.io/github/followers/bilalmalik04?style=for-the-badge&label=Followers&color=white&labelColor=black" />
-      <img src="https://img.shields.io/github/repos/bilalmalik04?style=for-the-badge&label=Public%20Repos&color=white&labelColor=black" />
-      <img src="https://img.shields.io/github/stars/bilalmalik04?style=for-the-badge&label=Stars&color=white&labelColor=black" />
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/bilalmalik04">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-      </a><br><br>
-      <a href="https://bilalmalik04.github.io">
-        <img src="https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 <br>
 
