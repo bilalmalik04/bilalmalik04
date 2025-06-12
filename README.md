@@ -28,7 +28,7 @@
         <li>💻 Frontend Developer & UI\UX Designer</li>
         <li>🎨 Digital Concept Artist </li>
         <li>🤝 I’m looking for collaborations and making products</li>
-        <li>Visit <a href="https://your-portfolio-link.com" target="_blank">Portfolio</a> to know more about me ...</li>
+        <li>Visit <a href="#m" target="_blank">Portfolio</a> to know more about me ...  (Coming Soon..) </li>
       </ul>
     </td>
   </tr>
