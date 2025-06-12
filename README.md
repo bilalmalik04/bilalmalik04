@@ -8,7 +8,9 @@
 
 <!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" /> -->
 <p align="center">
-  <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/herobanner.svg" />
+<!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/herobanner.svg" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bilalmalik04&show_icons=true&theme=radical" />
+
 </p>
 
 
