@@ -8,7 +8,7 @@
 
 <!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" /> -->
 
-  <table width="100%" style="background-color: #000000; color: white; border-radius: 10px;">
+  <table width="170%" style="background-color:black; color: white; border-radius: 10px;">
   <tr>
     <td align="center" width="33%">
       <img src="https://avatars.githubusercontent.com/u/112762246?v=4" width="120" style="border-radius: 50%;" />
