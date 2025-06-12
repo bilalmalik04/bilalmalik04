@@ -6,7 +6,10 @@
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
 <p align="center">
-  <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" />
+<!--   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" /> -->
+  <img src="https://img.shields.io/github/followers/bilalmalik04?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/bilalmalik04?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/repos/bilalmalik04?label=Public%20Repos" />
 </p>
 
 <table>
