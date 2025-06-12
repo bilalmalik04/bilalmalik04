@@ -1,0 +1,43 @@
+<svg width="900" height="250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #000; }
+    .text { fill: #fff; font-family: 'Segoe UI', sans-serif; }
+    .heading { font-size: 26px; font-weight: 700; }
+    .stats { font-size: 16px; }
+    .button {
+      fill: none;
+      stroke: #fff;
+      stroke-width: 2;
+      rx: 8;
+    }
+    .btntxt {
+      fill: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      font-family: 'Segoe UI', sans-serif;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" class="bg" rx="15"></rect>
+
+  <!-- Left: Avatar -->
+  <image href="https://avatars.githubusercontent.com/u/112762246?v=4" x="30" y="45" width="160" height="160" clip-path="circle(80px at 110px 120px)"></image>
+
+  <!-- Center: GitHub Stats -->
+  <text x="220" y="80" class="text heading">🚀 Bilal Malik</text>
+  <text x="220" y="120" class="text stats">👥 Followers: {{followers}}</text>
+  <text x="220" y="150" class="text stats">📦 Repos: {{repos}}</text>
+  <text x="220" y="180" class="text stats">⭐ Stars: {{stars}}</text>
+
+  <!-- Right: Buttons -->
+  <a href="https://github.com/bilalmalik04">
+    <rect x="670" y="70" width="190" height="40" class="button"></rect>
+    <text x="765" y="96" text-anchor="middle" class="btntxt">GitHub Profile</text>
+  </a>
+
+  <a href="https://bilalmalik04.github.io">
+    <rect x="670" y="130" width="190" height="40" class="button"></rect>
+    <text x="765" y="156" text-anchor="middle" class="btntxt">Visit Portfolio</text>
+  </a>
+</svg>
