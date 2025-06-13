@@ -5,9 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
-<p align="center">
-  <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/heroBanner.svg" />
-</p>
 <br>
 <table>
   <tr>
@@ -28,7 +25,7 @@
         <li>💻 Frontend Developer & UI\UX Designer</li>
         <li>🎨 Digital Concept Artist </li>
         <li>🤝 I’m looking for collaborations and making products</li>
-        <li>Visit <a href="#m" target="_blank">Portfolio</a> to know more about me ...  (Coming Soon..) </li>
+        <li>Visit <a href="https://bilal-profile.netlify.app" target="_blank">Portfolio</a> to know more about me </li>
       </ul>
     </td>
   </tr>
