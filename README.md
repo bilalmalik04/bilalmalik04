@@ -17,7 +17,6 @@
       <img  src="https://github.com/bilalmalik04.png" width="120"  alt="Bilal Malik" />
 <!--       <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/imgPersonal1.png" width="100" alt="Bilal Malik"> -->
     </td>
-<hr> <br>
     <!-- Right: About Me -->
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
