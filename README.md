@@ -6,31 +6,15 @@
 <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button">
 
 <br>
-<table>
-  <tr>
-    <!-- Left: Animation + Avatar -->
-    <td align="center" style="padding-right: 20px;">
-      <!-- Typing animation (smaller width + height) -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=150&height=40&lines=Hey+I+am+Bilal" alt="Typing SVG" />
-      <br />
-      <!-- Avatar -->
-      <img  src="https://github.com/bilalmalik04.png" width="120"  alt="Bilal Malik" />
-<!--       <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/imgPersonal1.png" width="100" alt="Bilal Malik"> -->
-    </td>
-    <!-- Right: About Me -->
-    <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
-      <ul>
-        <li> Hi, I’m Bilal....</li>
-        <li> Frontend Developer & UI\UX Designer</li>
-        <li> Digital Concept Artist </li>
-        <li> I’m looking for collaborations and making products</li>
-        <li>Visit <a href="https://bilal-profile.netlify.app" target="_blank">Portfolio</a> to know more about me </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-<hr> <br>
 
+# 👋 Hi there!
+
+My name is **Bilal** and I do open source for fun. The projects you will find on this profile are just random things I've built at one point.
+
+- 🌐 To see the list of my most popular projects, [visit my portfolio](https://bilal-profile.netlify.app).
+- 🧠 I'm currently learning Frontend Tecs   and diving deeper into DevOps tools.
+- ✍️ I occasionally write about my journey and tech topics on my [blog](https://your-blog-link.com).
+<hr> <br>
 
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left">
@@ -96,13 +80,13 @@
 
 
 
-<!-- GITHUB STATS CARD -->
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=bilalmalik04&show_icons=true&theme=radical" />
-</p>
+### 📊 Stats
 
-<!-- MOST USED LANGUAGES -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmalik04&layout=compact&theme=tokyonight" height="150" alt="Most Used Languages" />
-</p>
+#### 💫 Highlights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalmalik04&show_icons=true&theme=github_dark&hide_title=true)
+
+#### 🧠 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalmalik04&layout=compact&theme=github_dark)
 
