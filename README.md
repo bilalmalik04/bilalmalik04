@@ -34,7 +34,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
     <img src="https://img.shields.io/badge/Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<br>   <hr>
+   <hr>
 
 
 <!-- PROFILE VIEWS COUNTER -->
@@ -73,7 +73,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
 <p align="left">
   <img src="https://github.com/bilalmalik04/bilalmalik04/blob/main/tech-stack.svg" />
 </p>
-
+<br>
 <!-- Horizontal Tech Stack with Gaps -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
