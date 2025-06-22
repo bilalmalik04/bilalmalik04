@@ -20,16 +20,22 @@
     <!-- Right: About Me -->
     <td style="vertical-align: top; font-family: monospace; font-size: 15px; line-height: 1.6;">
       <ul>
-        <li>👋 Hi, I’m Bilal....</li>
-        <li>💻 Frontend Developer & UI\UX Designer</li>
-        <li>🎨 Digital Concept Artist </li>
-        <li>🤝 I’m looking for collaborations and making products</li>
+        <li> Hi, I’m Bilal....</li>
+        <li> Frontend Developer & UI\UX Designer</li>
+        <li> Digital Concept Artist </li>
+        <li> I’m looking for collaborations and making products</li>
         <li>Visit <a href="https://bilal-profile.netlify.app" target="_blank">Portfolio</a> to know more about me </li>
       </ul>
     </td>
   </tr>
 </table>
 <hr> <br>
+
+
+<!-- PROFILE VIEWS COUNTER -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bilalmalik04&label=Profile%20views&color=8000ff&style=flat" alt="profile views" />
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/found-me-btn.svg" />
@@ -88,10 +94,6 @@
   <img src="https://img.shields.io/badge/GITHUB%20STATS-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Badge"/>
 </p>
 
-<!-- PROFILE VIEWS COUNTER -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bilalmalik04&label=Profile%20views&color=8000ff&style=flat" alt="profile views" />
-</p>
 
 
 <!-- GITHUB STATS CARD -->
