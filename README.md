@@ -7,7 +7,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button" />
 </p>
-
+<br>
 # 👋 Hi there!
 
 My name is **Bilal** and I do open source for fun. The projects you will find on this profile are just random things I've built at one point. <br>  A passionate frontend developer focused on crafting unique, powerful, and visually engaging web experiences.
@@ -17,7 +17,26 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
         <li> Digital Concept Artist </li>
         <li> I’m looking for collaborations and making products</li>
  </ul>
+
+ 
 <br>
+<!-- Info Buttons Row -->
+<p align="left">
+  <a href="https://bilal-profile.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://your-blog-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog_Posts-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:infobilalmalik04@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<br>   <hr>
+
+
 <!-- PROFILE VIEWS COUNTER -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bilalmalik04&label=Profile%20views&color=8000ff&style=flat" alt="profile views" />
@@ -27,7 +46,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/found-me-btn.svg" />
-</p>  <br>
+</p>  
 <p align="center">
   <a href="https://github.com/bilalmalik04" target="_blank">
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -48,24 +67,6 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
     <img alt="UIverse" height="32" src="https://uiverse.io/favicon.ico" />
   </a>
 </p>
-<br>
-
-<br>
-<!-- Info Buttons Row -->
-<p align="left">
-  <a href="https://bilal-profile.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://your-blog-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog_Posts-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:infobilalmalik04@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-<hr>
 <br>
 
 <!-- Tech Stack Button -->
@@ -94,7 +95,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
-<br> <hr>
+<br>
 
 <!-- Profile Stats Title Badge -->
 <p align="left">
