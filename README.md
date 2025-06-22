@@ -8,8 +8,8 @@
   <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/about-me-btn.svg" alt="About Me Button" />
 </p>
 <br>
-# 👋 Hi there!
-
+ 👋 Hi there!
+  <br>
 My name is **Bilal** and I do open source for fun. The projects you will find on this profile are just random things I've built at one point. <br>  A passionate frontend developer focused on crafting unique, powerful, and visually engaging web experiences.
 <be>
   <ul>
@@ -30,7 +30,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
     <img src="https://img.shields.io/badge/Blog_Posts-blueviolet?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:infobilalmalik04@gmail.com">
+  <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact_Me-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -52,10 +52,10 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>&nbsp;
   <a href="#" target="_blank">
-    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;
   <a href="#" target="_blank">
-    <img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>&nbsp;
   <a  href="#" target="_blank">
     <img alt="Instagram" height="32" src="https://img.icons8.com/fluency/48/instagram-new.png" />
@@ -64,10 +64,10 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
     <img alt="Gmail" height="32" src="https://img.icons8.com/color/48/gmail--v1.png" />
   </a>&nbsp;
   <a href="#" target="_blank">
-    <img alt="UIverse" height="32" src="https://uiverse.io/favicon.ico" />
+    <img alt="UIverse" height="30" src="https://uiverse.io/favicon.ico" />
   </a>
-</p>
-<br>
+</p> 
+<br> <br>
 
 <!-- Tech Stack Button -->
 <p align="left">
@@ -95,7 +95,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
-<br>
+<br> <br>
 
 <!-- Profile Stats Title Badge -->
 <p align="left">
