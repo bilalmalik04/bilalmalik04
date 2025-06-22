@@ -27,8 +27,7 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/bilalmalik04/bilalmalik04/main/found-me-btn.svg" />
-</p> <br>
-<br>
+</p>  <br>
 <p align="center">
   <a href="https://github.com/bilalmalik04" target="_blank">
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
