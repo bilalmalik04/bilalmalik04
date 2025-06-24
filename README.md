@@ -11,7 +11,7 @@
  👋 Hi there!
   <br>
 My name is **Bilal** and I do open source for fun. The projects you will find on this profile are just random things I've built at one point. <br>  A passionate frontend developer focused on crafting unique, powerful, and visually engaging web experiences.
-<be>
+<br>
   <ul>
         <li> Frontend Developer & UI\UX Designer</li>
         <li> Digital Concept Artist </li>
