@@ -54,18 +54,18 @@ My name is **Bilal** and I do open source for fun. The projects you will find on
   <a href="#" target="_blank">
     <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;
-  <a href="#" target="_blank">
+  <a href="https://x.com/byllzzz" target="_blank">
     <img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>&nbsp;
-  <a  href="#" target="_blank">
+<!--   <a  href="#" target="_blank">
     <img alt="Instagram" height="32" src="https://img.icons8.com/fluency/48/instagram-new.png" />
-  </a>&nbsp;
+  </a>&nbsp; -->
   <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
     <img alt="Gmail" height="32" src="https://img.icons8.com/color/48/gmail--v1.png" />
   </a>&nbsp;
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
     <img alt="UIverse" height="30" src="https://uiverse.io/favicon.ico" />
-  </a>
+  </a> -->
 </p> 
 <br> <br>
 
