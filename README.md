@@ -12,16 +12,36 @@
 
 <br>
 
-### 👋 Hi there!  
-My name is **Bilal**, and I do open source for fun.  
-The projects you’ll find here are just random things I’ve built at some point.  
-I'm a **frontend developer** focused on crafting unique, powerful, and visually engaging web experiences.
+# 👋 Hey, I’m Bilal  
+**Frontend Developer | UI/UX Designer | Digital Craftsman**
 
+I don’t just build websites — I craft clean, fast, and visually rich experiences.  
+From bold landing pages to smooth dashboards, I focus on design that feels good and works even better.
 <br>
+##  What I Do
+I focus on building **modern, responsive, and user-focused web experiences** through a mix of design and development. Here's what I bring to the table:
 
--  Frontend Developer & UI/UX Designer  
--  Digital Concept Artist  
-- 🤝 Open to collaborations and product ideas
+- 🎨 **UI/UX Design**  
+  Crafting clean, minimal, and visually striking user interfaces with attention to detail and usability.
+
+- 💻 **Frontend Development**  
+  Writing efficient, maintainable code using HTML, CSS, JavaScript, and React — always with performance in mind.
+
+- 📱 **Responsive Design**  
+  Ensuring pixel-perfect experiences across all screen sizes — mobile-first and fully adaptive.
+
+- ⚙️ **Component-Based Development**  
+  Building reusable, scalable components for maintainable frontends using React and modern CSS frameworks.
+
+- 🛠️ **Design to Code**  
+  Turning Figma or Sketch designs into fully functional, production-ready interfaces.
+
+- 🚀 **Performance Optimization**  
+  Improving load times, reducing layout shifts, and ensuring accessibility and SEO best practices.
+
+- 🤝 **Collaboration Ready**  
+  Comfortable working in team environments with Git, GitHub, and agile workflows.
+
 
 <br>
 
