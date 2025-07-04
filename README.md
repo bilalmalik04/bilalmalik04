@@ -5,13 +5,6 @@
 
 <hr>
 
-<!-- About Me Button -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/byllzz/byllzz/main/about-me-btn.svg" alt="About Me Button" />
-</p>
-
-<br>
-
 # 👋 Hey, I’m Bilal  
 **Frontend Developer | UI/UX Designer | Digital Craftsman**
 
