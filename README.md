@@ -5,8 +5,8 @@
 
 <hr>
 
-#  Hey, I’m Bilal  
-**Frontend Developer | UI/UX Designer | Digital Craftsman**
+# Hey, I’m Bilal  
+**Frontend Developer | UI/UX Designer | Digital Artist**
 
 I don’t just build websites — I craft clean, fast, and visually rich experiences.  
 From bold landing pages to smooth dashboards, I focus on design that feels good and works even better.
@@ -47,10 +47,10 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
     <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>&nbsp;
   <a href="#" target="_blank">
-    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;
   <a href="https://x.com/byllzzz" target="_blank">
-    <img alt="Twitter" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+    <img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
   </a>&nbsp;
   <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
     <img alt="Gmail" height="32" src="https://img.icons8.com/color/48/gmail--v1.png" />
