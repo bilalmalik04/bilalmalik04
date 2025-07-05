@@ -44,19 +44,18 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/bilalmalik04" target="_blank">
-    <img alt="GitHub" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>&nbsp;
+    <img alt="GitHub" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>&nbsp;&nbsp;
   <a href="#" target="_blank">
-    <img alt="LinkedIn" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>&nbsp;
+    <img alt="LinkedIn" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/byllzzz" target="_blank">
-    <img alt="Twitter" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
-  </a>&nbsp;
+    <img alt="Twitter" style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:infobilalmalik03@gmail.com" target="_blank">
-    <img alt="Gmail" height="32" src="https://img.icons8.com/color/48/gmail--v1.png" />
+    <img alt="Gmail" style="height:32px;" src="https://img.icons8.com/color/48/gmail--v1.png" />
   </a>
 </p>
-
 <br><br>
 
 <!-- Tech Stack Button -->
@@ -66,23 +65,23 @@ From bold landing pages to smooth dashboards, I focus on design that feels good 
 
 <!-- Tech Stack Icons -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px;" alt="CSS" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px;" alt="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:40px;" alt="React" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" style="height:40px;" alt="Tailwind CSS" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="height:40px;" alt="Bootstrap" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:40px;" alt="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:40px;" alt="Figma" />
 </div>
 
 <br><br>
